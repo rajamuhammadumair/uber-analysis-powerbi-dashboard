@@ -52,26 +52,6 @@ This project showcases an interactive Power BI dashboard designed to analyze Ube
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 uber-trip-analysis-powerbi-dashboard
- ├── Uber Dashboard.pbix
- ├── README.md
- └── screenshots
-      └── dashboard.png
-```
-
----
-
-## 📸 Dashboard Preview
-
-> Add a screenshot of the dashboard here.
-
-![Dashboard Preview](screenshots/dashboard.png)
-
----
-
 ## 🚀 How to View
 
 1. Download this repository.
@@ -96,8 +76,4 @@ This project showcases an interactive Power BI dashboard designed to analyze Ube
 
 ## 👤 Author
 
-**Your Name**
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-GitHub: https://github.com/yourusername
+**Raja M. Umair**
